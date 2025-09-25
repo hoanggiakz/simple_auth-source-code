@@ -47,8 +47,7 @@ You have accessed a protected resource 🎉
 
 401 Authentication required.
 
-
-Part B: Cookie Authentication
+## Part B: Cookie Authentication
 1. Run the Server
 
 Start MongoDB first:
